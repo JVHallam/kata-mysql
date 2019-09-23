@@ -4,8 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "setup" : "kata-scripts setup",
-    "cleanup" : "kata-scripts cleanup",
+    "setup": "kata-scripts setup",
+    "cleanup": "kata-scripts cleanup",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
@@ -15,12 +15,13 @@
     "@babel/core": "^7.6.0",
     "@babel/preset-env": "^7.6.0",
     "babel-jest": "^24.9.0",
-    "kata-scripts": "^1.0.0"
+    "kata-scripts": "^1.0.0",
+    "sqlite3": "^4.1.0"
   },
-  "config" : {
-    "kata-scripts" : {
-      "exec_area_path" : "practise",
-      "resources_path" : "resources"
+  "config": {
+    "kata-scripts": {
+      "exec_area_path": "practise",
+      "resources_path": "resources"
     }
   }
 }
