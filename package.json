@@ -18,8 +18,8 @@
     "kata-scripts": "^1.0.0",
     "sqlite3": "^4.1.0"
   },
-  "config": {
-    "kata-scripts": {
+  "config" : {
+    "kata": {
       "exec_area_path": "practise",
       "resources_path": "resources"
     }

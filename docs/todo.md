@@ -1,11 +1,15 @@
 # ToDo!
 
 ## List
-* Add a setup database script
-  * Or have some binary db already setup
-  * Could do something from csv or something?
-
-* Add in some super basic tests, to make sure shit's working
-  * Select tests
-  * upsert tests
-  * etc.
+* This is just going to be focused on selection of data
+  * SELECT
+  * COUNT
+  * FROM
+  * WHERE
+  * ORDER BY
+  * ORDER
+  * LIMIT
+  * AND ( for joins )
+  * DISTINCT
+  * GROUP BY
+  * IF
